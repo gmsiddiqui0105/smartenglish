@@ -1,0 +1,45 @@
+.container{
+    
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 25px;
+    border-radius: 10px;
+}
+
+.nav-left h1:hover {
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+    text-decoration: none;
+
+}
+
+.nav-right li:hover {
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.nav-list  {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+
+li {
+    list-style: none;
+    font-size: larger;
+    color: black;
+
+}
+
+a {
+    text-decoration: none;
+}

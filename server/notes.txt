@@ -1,0 +1,6 @@
+MERN Stack - 
+
+Mongodb(mongoose)
+Express (http servers)
+React - frontend javascript library
+Nodejs - serverside applications (backend)
